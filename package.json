@@ -2,6 +2,6 @@
   "packageManager": "yarn@4.9.1",
   "dependencies": {
     "axios": "0.18.1",
-    "hono": "4.8.8"
+    "hono": "4.8.9"
   }
 }
