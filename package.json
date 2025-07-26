@@ -1,0 +1,6 @@
+{
+  "packageManager": "yarn@4.9.1",
+  "dependencies": {
+    "hono": "4.8.8"
+  }
+}
