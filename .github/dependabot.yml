@@ -1,0 +1,17 @@
+# https://github.com/dependabot/demo/blob/main/.github/dependabot.yml
+
+---
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+  - package-ecosystem: npm
+    directory: "/javascript"
+    schedule:
+      interval: "weekly"
+  - package-ecosystem: bundler
+    directory: "/ruby"
+    schedule:
+      interval: "weekly"
