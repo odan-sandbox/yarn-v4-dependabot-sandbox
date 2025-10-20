@@ -33,10 +33,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"hono@npm:4.8.8":
-  version: 4.8.8
-  resolution: "hono@npm:4.8.8"
-  checksum: 10c0/f5ede70bab908f324275086acb31230e8dec9aee07221a058a4c8b5736db6d6eb842000c82b41921893a18744f3352315a36876fb6c949beac395668eeab7453
+"hono@npm:4.10.1":
+  version: 4.10.1
+  resolution: "hono@npm:4.10.1"
+  checksum: 10c0/a66e2791f62db07f1b24897a0f6848f5457101be12fd1a0e317b397b487ef2afa7ac6c01373347f3795ccbe09c68cd3fc7d00a43f75cc3a1e0fb6e85bec2e821
   languageName: node
   linkType: hard
 
@@ -59,6 +59,6 @@ __metadata:
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
     axios: "npm:0.18.1"
-    hono: "npm:4.8.8"
+    hono: "npm:4.10.1"
   languageName: unknown
   linkType: soft
